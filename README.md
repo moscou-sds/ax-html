@@ -1,5 +1,7 @@
 # Anxiety | Page
 
+![Image of Web](web.jpg)
+
 Watch my project [Anxiety](https://github.com/moscou-sds/Anxiety) (in process)
 
 ---
